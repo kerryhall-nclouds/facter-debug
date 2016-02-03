@@ -1,0 +1,5 @@
+*.swp
+.project
+*.bundle
+Gemfile.local
+spec/reports/
